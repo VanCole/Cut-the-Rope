@@ -1,5 +1,7 @@
 # Cut-the-Rope-Prototype
 
+December 2017
+
 Subject:
 
 -  Make a (Cut the Rope)-like with 10 levels.
